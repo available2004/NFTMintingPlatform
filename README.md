@@ -1,5 +1,7 @@
 ##### Deployed smartcontract address: CDTMUYNGEG465K637MQKVA2FL2OAHF4XWZRQGQZUE7NAF4SKYTGLRYYW
 
+![image.png](image.png)
+
 # NFT Minting Platform
 
 ## Project Title
